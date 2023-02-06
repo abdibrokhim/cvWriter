@@ -1,0 +1,7 @@
+env
+__pycache__
+.dccache
+.vscode
+
+app/__pycache__
+config/__pycache__
